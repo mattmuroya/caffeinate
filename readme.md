@@ -184,7 +184,7 @@ referred to as "Three Amigos" workshops, huddles, or the triad.
 - Define clear acceptance criteria marking completion of an increment
 - Allows for buy-in from each perspective
 
-### Gherkin
+## Gherkin
 
 Acceptance criteria need to be translated into executable tests to verify system
 behavior and confirm that we're on track building the right thing.
